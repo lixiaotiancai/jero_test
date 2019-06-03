@@ -1,0 +1,51 @@
+.banner-box {
+    width: 400px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.banner-body-item {
+    height: 200px;
+    border: 1px solid #000;
+}
+.btn {
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+.btn:hover {
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #188eee;
+}
+.btn-left {
+    left: 20px;
+}
+.btn-right {
+    right: 20px;
+}
+.banner-nav {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.banner-nav-item {
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    cursor: pointer;
+}
+

@@ -1,0 +1,21 @@
+.tab-box {
+    width: 500px;
+}
+.tab-header {
+    height: 40px;
+    display: flex;
+}
+.tab-header-item {
+    flex: 1;
+    border: 1px solid #000;
+    text-align: center;
+    display: flex;
+}
+.tab-header-item a{
+    flex: 1;
+    text-align: center;
+}
+.tab-body-item {
+    height: 200px;
+    border: 1px solid #000;
+}

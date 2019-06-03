@@ -1,0 +1,9 @@
+.show {
+    display: block;
+}
+.hidden {
+    display: none;
+}
+.active {
+    background-color: #999;
+}

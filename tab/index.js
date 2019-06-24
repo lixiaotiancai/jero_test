@@ -9,6 +9,6 @@
         },
         active: 1,
         tabHeaderActive: 'active',
-        tabBodyActive: 'hidden'
+        tabBodyActive: 'hiddean'
     })
 })()
